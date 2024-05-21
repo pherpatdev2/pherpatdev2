@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 - Twitter @pherpatyt
+- Discord @pherpatytmain
 
 <!---
 pherpatdev2/pherpatdev2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
