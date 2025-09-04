@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pherpatdev2" alt="pherpatdev2" /></a> </p>
 
+[![Translation status](https://translate.codeberg.org/widget/privacium/privacium/th/svg-badge.svg)](https://translate.codeberg.org/engage/privacium/)
+
 <p align="left"> <a href="https://twitter.com/mihoyoschan" target="blank"><img src="https://img.shields.io/twitter/follow/mihoyoschan?logo=twitter&style=for-the-badge" alt="mihoyoschan" /></a> </p>
 
 - 🔭 I’m currently working on [nothing](https://www.webpagetest.org/blank.html)
